@@ -8,13 +8,13 @@ PhonePe has become one of the most popular digital payment platforms in India, w
 We create a web app to analyse the Phonepe transaction and users depending on various Years, Quarters, States, and Types of transaction and give a Geographical and Geo visualization output based on given requirements.
 
 # Import Libraries
- import pandas as pd
- import numpy as np
- import os
- import json
- import sqlite3
- import streamlit as st
- import plotly.express as px
+ 1.import pandas as pd
+ 2.import numpy as np
+ 3.import os
+ 4.import json
+ 5.import sqlite3
+ 6.import streamlit as st
+ 7.import plotly.express as px
 
 # E T L Process
 a) Extract data
